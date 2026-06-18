@@ -1,0 +1,35 @@
+{
+    "name": "Terminal",
+    "author": "Kevin",
+    "description": "Old retro Green and black Terminal layout",
+    "update_url": "https://raw.githubusercontent.com/user/repo/refs/heads/main/theme.json",
+    "colors": {
+        "ui": {
+            "background": "#000000",
+            "background_dark": "#000000",
+            "background_light": "#000000",
+            "accent": "#39ff14",
+            "selection": "#5865F2",
+            "separator": "#00ffab",
+            "header_border": "#FFFFFF1E",
+            "overlay": "#00000096",
+            "pure_white": "#FFFFFF"
+        },
+        "text": {
+            "main": "#39FF14",
+            "muted": "#083400",
+            "link": "#ffffff"
+        },
+        "discord": {
+            "embed_bg": "#000000",
+            "embed_media_bg": "#000000",
+            "reaction_bg": "#000000",
+            "reaction_me_bg": "#39FF14",
+            "input_bg": "#000000"
+        },
+        "status": {
+            "success": "#39FF14",
+            "error": "#FFFFFF"
+        }
+    }
+}
